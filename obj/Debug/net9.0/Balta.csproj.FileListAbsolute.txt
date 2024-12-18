@@ -12,3 +12,4 @@ C:\Users\jufac\Desktop\Projetos\Balta\obj\Debug\net9.0\refint\Balta.dll
 C:\Users\jufac\Desktop\Projetos\Balta\obj\Debug\net9.0\Balta.pdb
 C:\Users\jufac\Desktop\Projetos\Balta\obj\Debug\net9.0\Balta.genruntimeconfig.cache
 C:\Users\jufac\Desktop\Projetos\Balta\obj\Debug\net9.0\ref\Balta.dll
+C:\Users\jufac\Desktop\Projetos\Balta\obj\Debug\net9.0\Balta.sourcelink.json
