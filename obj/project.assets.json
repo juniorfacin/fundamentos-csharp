@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jufac\\.nuget\\packages\\": {}
+    "/home/juniorfacin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jufac\\Desktop\\Projetos\\Balta\\Balta.csproj",
+      "projectUniqueName": "/mnt/c/Users/jufac/Desktop/Projetos/fundamentos-csharp/Balta.csproj",
       "projectName": "Balta",
-      "projectPath": "C:\\Users\\jufac\\Desktop\\Projetos\\Balta\\Balta.csproj",
-      "packagesPath": "C:\\Users\\jufac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jufac\\Desktop\\Projetos\\Balta\\obj\\",
+      "projectPath": "/mnt/c/Users/jufac/Desktop/Projetos/fundamentos-csharp/Balta.csproj",
+      "packagesPath": "/home/juniorfacin/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/jufac/Desktop/Projetos/fundamentos-csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jufac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/juniorfacin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
